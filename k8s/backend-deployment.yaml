@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: bankops-backend:latest
+          image: 298493766489.dkr.ecr.ap-south-1.amazonaws.com/bankops-backend:latest
           ports:
             - containerPort: 8080
           env:

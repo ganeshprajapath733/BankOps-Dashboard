@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: bankops-frontend:latest
+          image: 298493766489.dkr.ecr.ap-south-1.amazonaws.com/bankops-frontend:latest
           ports:
             - containerPort: 80
 ---

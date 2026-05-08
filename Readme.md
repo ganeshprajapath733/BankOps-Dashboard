@@ -12,6 +12,23 @@ A full-stack **Transaction Monitoring Dashboard** built for internal banking ope
 
 ---
 
+## 🌐 Live Demo
+
+> **Dashboard URL:** http://ae4f8753aaf9e402f934484678dbf281-de00e8ce8d3f98f0.elb.ap-south-1.amazonaws.com
+> *(Deployed on AWS EKS — may be offline to avoid costs)*
+
+## 📸 Screenshots
+
+| Live on AWS EKS | Transaction Table |
+|---|---|
+| ![Dashboard](screenshots/01_bankops_live_aws.png) | ![Table](screenshots/02_bankops_dashboard_table.png) |
+
+| Kubernetes Pods | GitHub Actions CI/CD |
+|---|---|
+| ![Pods](screenshots/04_kubectl_pods_running.png) | ![CI/CD](screenshots/12_github_actions.png) |
+
+---
+
 ## 🏗️ Architecture
 
 ```
